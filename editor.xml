@@ -1,7 +1,11 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Fira Code Medium" />
-    <option name="LINE_SPACING" value="1.4" />
+    <option name="LINE_SPACING" value="1.3" />
+  </component>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
   </component>
 </application>
